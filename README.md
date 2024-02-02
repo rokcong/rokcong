@@ -10,6 +10,11 @@ rockong is my nickname, not my real name 🤫<br>
 💻 Information and Communication Engineering<br>
 </div>
 <br><br>
+<h3 align = "center">🌱 learning<br><br></h3>
+<!-- 해당 부분은 프로필에 대한 간략한 설명입니다. -->
+<div align = "center">
+
+</div>
 <table sytle="">
 </table>
 

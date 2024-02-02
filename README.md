@@ -22,7 +22,10 @@ rockong is my nickname, not my real name 🤫<br>
       <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
     </tr>
     <tr style = "height:20px">
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Educaeion</b></td>
+      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">Educaeion</td>
+      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">2018.03~2023.02</td>
+      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">정보통신공학과(전문학사)</td>
+      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">&nbsp;</td>
     </tr>
   </tbody>
 </table>

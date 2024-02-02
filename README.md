@@ -64,6 +64,12 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 60%; height: 20px; text-align: center;">Sesac AWS 부트 캠프</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.08 ~ 2023.08</td>
+      <td style="width: 60%; height: 20px; text-align: center;">팡야 게임: 떨어지는 공을 플레이어가 공을 맞추는 게임</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
+    </tr>
   </tbody>
 </table>
 </div>

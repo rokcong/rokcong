@@ -124,6 +124,14 @@ rockong is my nickname, not my real name 🤫<br>
 </div>
 <div style = "display: flex;">
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Database : </span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=auto"/>
+</div>
+<div>
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Framework : </span> 
+   
+</div>
+<div>
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Deploy : </span>
   
 </div>
 <!--

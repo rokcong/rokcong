@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=rockong%20Github&fontsize=70&fontColor=676767&animation=twinkling&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=676767&height=300&section=header&text=rockong%20Github&fontsize=70&fontColor=BDFCC9&animation=twinkling&descSize=30)
 ---
 <h3 align = "center">🔭 My Career<br><br></h3>
 <!-- 해당 부분은 프로필에 대한 간략한 설명입니다. -->

@@ -18,8 +18,11 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style = "height:20px">
       <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b></td>
       <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
+      <td="width: 60%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
       <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
+    </tr>
+    <tr style = "height:20px">
+      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Educaeion</b></td>
     </tr>
   </tbody>
 </table>

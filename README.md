@@ -21,11 +21,12 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 60%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
       <td style="width: 11%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
     </tr>
-    <tr style = "height:20px">
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">Educaeion</td>
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">2018.03~2023.02</td>
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">정보통신공학과(전문학사)</td>
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">&nbsp;</td>
+    <!-- 교육 및 경력 항목을 표시합니다! -->
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Education</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2018.03 ~ 2023.02</td>
+      <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
   </tbody>
 </table>

@@ -6,7 +6,7 @@
 <div align = "center">
 안녕 안녕~~ I'm rokcong~~~~  👋<br>
 what is rockong?<br>
-rock is my nickname, not my real name<br>
+rockong is my nickname, not my real name<br>
 
 <!--
 **rokcong/rokcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

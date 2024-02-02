@@ -15,11 +15,11 @@ rockong is my nickname, not my real name 🤫<br>
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
 <!-- 교육 및 경력을 표시하는 테이블 -->
   <tbody>
-    <tr style = "height:20px">
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b></td>
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
-      <td="width: 60%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
-      <td="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
+      <td style="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
+      <td style="width: 60%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
+      <td style="width: 11%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
     </tr>
     <tr style = "height:20px">
       <td="width: 15%; height: 20px; text-align: center;font-weight: 800;">Educaeion</td>

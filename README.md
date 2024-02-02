@@ -11,9 +11,12 @@ rockong is my nickname, not my real name 🤫<br>
 </div>
 <br><br>
 <h3 align = "center">🌱 learning<br><br></h3>
-<!-- 해당 부분은 프로필에 대한 간략한 설명입니다. -->
+<!-- 해당 부분은 교육에 대한 간략한 설명입니다. -->
 <div align = "center">
-
+<table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
+<!-- 교육을 표시하는 테이블 -->
+  
+</table>
 </div>
 <table sytle="">
 </table>

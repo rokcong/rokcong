@@ -120,6 +120,9 @@ rockong is my nickname, not my real name 🤫<br>
 <!-- 프로그래밍 언어, 프레임워크, 데이터베이스, 배포 등의 기술 스택을 나타냅니다. -->
 <div style = "display: flex;">
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Programming Lang : </span> 
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Database : </span>
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Framework : </span> 
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Deploy : </span> 
 </div>
 <!--
 **rokcong/rokcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

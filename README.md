@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&)
 
 ---
 <h3 align = "center">🔭 My Career<br><br></h3>

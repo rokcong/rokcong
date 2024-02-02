@@ -17,6 +17,7 @@ rockong is my nickname, not my real name 🤫<br>
 <!-- 교육을 표시하는 테이블 -->
   <tbody>
     <tr style = "">
+      <td="width: 14%; height: 20px; text-align: center;font-weight: 800;"></td>
       <td></td>
       <td></td>
     </tr>

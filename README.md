@@ -31,19 +31,19 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
       <td style="width: 15%; height: 20px; text-align: center;">2021</td>
-      <td style="width: 60%; height: 20px; text-align: center;">네트워크 관리사 2급(professional bachelor's degree)</td>
+      <td style="width: 60%; height: 20px; text-align: center;">네트워크 관리사 2급</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
       <td style="width: 15%; height: 20px; text-align: center;">2021</td>
-      <td style="width: 60%; height: 20px; text-align: center;">리눅스 마스터 2급(professional bachelor's degree)</td>
+      <td style="width: 60%; height: 20px; text-align: center;">리눅스 마스터 2급</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
       <td style="width: 15%; height: 20px; text-align: center;">2021</td>
-      <td style="width: 60%; height: 20px; text-align: center;">(professional bachelor's degree)</td>
+      <td style="width: 60%; height: 20px; text-align: center;">Mos Office Excel 2016 Expert</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">

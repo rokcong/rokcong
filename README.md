@@ -120,11 +120,11 @@ rockong is my nickname, not my real name 🤫<br>
 <!-- 프로그래밍 언어, 프레임워크, 데이터베이스, 배포 등의 기술 스택을 나타냅니다. -->
 <div style = "display: flex;">
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Programming Lang : </span> 
-  
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 <div style = "display: flex;">
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Database : </span>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mysql-3776AB?style=flat-square&logo=Mysql&logoColor=white"/>
 </div>
 <div>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Framework : </span> 
@@ -134,17 +134,4 @@ rockong is my nickname, not my real name 🤫<br>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Deploy : </span>
   
 </div>
-<!--
-**rokcong/rokcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

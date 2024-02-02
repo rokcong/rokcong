@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ---
 <h3 align = "center">🔭 My Career<br><br></h3>
@@ -7,6 +6,9 @@
 안녕 안녕~~ I'm rokcong~~~~  👋<br>
 what is rockong?<br>
 rockong is my nickname, not my real name<br>
+💙 Seoil University in Korea<br>
+💻 Information and Communication Engineering<br>
+</div>
 
 <!--
 **rokcong/rokcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

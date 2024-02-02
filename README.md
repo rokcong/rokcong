@@ -120,11 +120,11 @@ rockong is my nickname, not my real name 🤫<br>
 <!-- 프로그래밍 언어, 프레임워크, 데이터베이스, 배포 등의 기술 스택을 나타냅니다. -->
 <div style = "display: flex;">
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Programming Lang : </span> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=Python&logoColor=blue"/>
 </div>
 <div style = "display: flex;">
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Database : </span>
-    <img src="https://img.shields.io/badge/Mysqlstyle-3776AB?=flat-square&logo=Mysql&logoColor=yellow"/>
+    <img src="https://img.shields.io/badge/Mysql-3776AB?=flat-square&logo=Mysql&logoColor=white"/>
 </div>
 <div>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Framework : </span> 

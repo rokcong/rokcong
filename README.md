@@ -29,6 +29,24 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2021</td>
+      <td style="width: 60%; height: 20px; text-align: center;">네트워크 관리사 2급(professional bachelor's degree)</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2021</td>
+      <td style="width: 60%; height: 20px; text-align: center;">리눅스 마스터 2급(professional bachelor's degree)</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2021</td>
+      <td style="width: 60%; height: 20px; text-align: center;">(professional bachelor's degree)</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+    </tr>
+    <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2022.07 ~ 2023.01</td>
       <td style="width: 60%; height: 20px; text-align: center;">Ansible 자동화로 구현한 아마존 AWS 클라우드 환경 DevOps 과정(수료)</td>

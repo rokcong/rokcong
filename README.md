@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=rokcong ✨&fontsize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 ---
 <h3 align = "center">🔭 My Career<br><br></h3>
 <!-- 해당 부분은 프로필에 대한 간략한 설명입니다. -->

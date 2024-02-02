@@ -2,8 +2,11 @@
 
 ---
 <h3 align = "center">🔭 My Career<br><br></h3>
-
-
+<!-- 해당 부분은 프로필에 대한 간략한 설명입니다. -->
+<div align = "center">
+안녕 안녕~~ I'm rokcong~~~~  👋<br>
+what is rockong?<br>
+rock is my nickname, not my real name<br>
 
 <!--
 **rokcong/rokcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

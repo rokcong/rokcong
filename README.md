@@ -124,7 +124,7 @@ rockong is my nickname, not my real name 🤫<br>
 </div>
 <div style = "display: flex;">
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Database : </span>
-    <img src="https://img.shields.io/badge/Mysql-3776AB?style=flat-square&logo=Mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mysqlstyle=flat-square&logo=Mysql&logoColor=white"/>
 </div>
 <div>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Framework : </span> 

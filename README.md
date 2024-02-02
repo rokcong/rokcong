@@ -15,7 +15,11 @@ rockong is my nickname, not my real name 🤫<br>
 <div align = "center">
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
 <!-- 교육을 표시하는 테이블 -->
-  
+  <tbody>
+    <tr style = "">
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 </div>
 <table sytle="">

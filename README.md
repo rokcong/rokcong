@@ -25,7 +25,7 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2018.03 ~ 2023.02</td>
-      <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과(professional bachelor's degree)</td>
+      <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과(3-year associate's degree)</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
@@ -55,7 +55,7 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.03 ~ 2024.02</td>
-      <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과(bachelor's degree)</td>
+      <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과(bachelor degree)</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">

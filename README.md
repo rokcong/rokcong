@@ -59,17 +59,67 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.08 ~ 2023.08</td>
+      <td style="width: 60%; height: 20px; text-align: center;">팡야 게임: 떨어지는 공을 플레이어가 공을 맞추는 게임</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
+      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
+      <td style="width: 60%; height: 20px; text-align: center;">금 캐기 게임: 땅에 있는 금을 광부가 곡갱이로 그랩해오는 게임</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
+      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
+      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.9 ~ 2023.9</td>
+      <td style="width: 60%; height: 20px; text-align: center;">침팬치 기억 저장 게임</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
+      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.10 ~ 2023.10</td>
+      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 웹 Selenium</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2023.12</td>
+      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 Zeld(2d) with soullike</td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Tilemap</td>
+    </tr>
+    <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2024.04</td>
       <td style="width: 60%; height: 20px; text-align: center;">Sesac AWS 부트 캠프</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.08 ~ 2023.08</td>
-      <td style="width: 60%; height: 20px; text-align: center;">팡야 게임: 떨어지는 공을 플레이어가 공을 맞추는 게임</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
-    </tr>
+
+    
   </tbody>
 </table>
 </div>

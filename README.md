@@ -61,7 +61,7 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2024.04</td>
-      <td style="width: 60%; height: 20px; text-align: center;">Sesac AWS 부트 탬프</td>
+      <td style="width: 60%; height: 20px; text-align: center;">Sesac AWS 부트 캠프</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
   </tbody>

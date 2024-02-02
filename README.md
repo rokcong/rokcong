@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=rokcong ✨&fontsize=90)
 
 ---
 <h3 align = "center">🔭 My Career<br><br></h3>

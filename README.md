@@ -28,6 +28,12 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과(전문학사)</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">KOR Army</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2019.03 ~ 2020.10</td>
+      <td style="width: 60%; height: 20px; text-align: center;">Join Army</td>
+      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
+    </tr>
   </tbody>
 </table>
 </div>

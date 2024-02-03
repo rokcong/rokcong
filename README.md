@@ -112,7 +112,6 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2023.12</td>
       <td style="width: 60%; height: 20px; text-align: center;"><a href="https://github.com/rokcong/firstpython/tree/main/Zelda(2D)">파이썬을 이용한 Zeld(2d) with soullike)</a></td>
-      
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Tilemap</td>
     </tr>
   </tbody>

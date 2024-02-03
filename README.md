@@ -105,7 +105,7 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.10 ~ 2023.10</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 웹 Selenium</td>
+      <td style="width: 60%; height: 20px; text-align: center;"><a href="https://github.com/rokcong/firstpython/tree/main/first_selenium">파이썬을 이용한 웹 Selenium</a></td>
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
     </tr>
     <tr style="height: 20px;">

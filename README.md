@@ -98,12 +98,6 @@ rockong is my nickname, not my real name 🤫<br>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.9 ~ 2023.9</td>
       <td style="width: 60%; height: 20px; text-align: center;">침팬치 기억 저장 게임</td>
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
@@ -117,8 +111,8 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2023.12</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 Zeld(2d) with soullike)</td>
-      [파이썬을 이용한 Zeld(2d) with soullike](https://github.com/rokcong/firstpython/tree/main/Zelda(2D))
+      <td style="width: 60%; height: 20px; text-align: center;"><a href="https://github.com/rokcong/firstpython/tree/main/Zelda(2D)">파이썬을 이용한 Zeld(2d) with soullike)</a></td>
+      
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Tilemap</td>
     </tr>
   </tbody>

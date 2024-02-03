@@ -79,6 +79,9 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 60%; height: 20px; text-align: center;">Mos Office Excel 2016 Expert</td>
       <td style="width: 11%; height: 20px; text-align: center;">📇</td>
     </tr>
+</table>
+</div>
+<br><br>
 
 <!-- 기술 스택을 나타내는 섹션 -->
 <h3 align = "center">:wrench:Tech Stack:wrench:<br></h3>

@@ -49,7 +49,7 @@ rockong is my nickname, not my real name 🤫<br>
   </tbody>
 </table>
 </div>
-<br><br>
+<br>
 
 <h3 align = "center">📖 My Certification<br><br></h3>
 <div align = "center">
@@ -83,7 +83,7 @@ rockong is my nickname, not my real name 🤫<br>
   </tbody>
 </table>
 </div>
-<br><br>
+<br>
 
 <h3 align = "center">📰 My Project<br><br></h3>
 <div align = "center">
@@ -117,7 +117,7 @@ rockong is my nickname, not my real name 🤫<br>
   </tbody>
 </table>
 </div>
-<br><br>
+<br>
 
 <!-- 기술 스택을 나타내는 섹션 -->
 <h3 align = "center">:wrench:Tech Stack:wrench:<br></h3>

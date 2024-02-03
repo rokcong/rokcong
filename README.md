@@ -146,8 +146,11 @@ rockong is my nickname, not my real name 🤫<br>
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </div>
 
+
+
 <!-- 콘텐츠 링크>
 <h3 align="center"> 🔗 Content 🔗 <br><br></h3>
+<div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <a href="yun39442@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logo=Naver&logoColor=black"></a>
 <a href></a>
 <a href></a>

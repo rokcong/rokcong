@@ -99,7 +99,7 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.9 ~ 2023.9</td>
-      <td style="width: 60%; height: 20px; text-align: center;">침팬치 기억 저장 게임</td>
+      <td style="width: 60%; height: 20px; text-align: center;"><a herf="https://github.com/rokcong/firstpython/tree/main/memory_test">침팬치 기억 저장 게임</a></td>
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
     </tr>
     <tr style="height: 20px;">

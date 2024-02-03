@@ -85,7 +85,7 @@ rockong is my nickname, not my real name 🤫<br>
 </div>
 <br><br>
 
-<h3 align = "center">📖 My Certification<br><br></h3>
+<h3 align = "center">📰 My Project<br><br></h3>
 <div align = "center">
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
 <!-- 자격증 표시하는 테이블 -->

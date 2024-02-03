@@ -100,18 +100,6 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
       <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">금 캐기 게임: 땅에 있는 금을 광부가 곡갱이로 그랩해오는 게임</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
     </tr>
     <tr style="height: 20px;">
@@ -119,12 +107,6 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 15%; height: 20px; text-align: center;">2023.9 ~ 2023.9</td>
       <td style="width: 60%; height: 20px; text-align: center;">침팬치 기억 저장 게임</td>
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
@@ -163,4 +145,11 @@ rockong is my nickname, not my real name 🤫<br>
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=orange"/>
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </div>
+
+<!-- 콘텐츠 링크>
+<h3 align="center"> 🔗 Content 🔗 <br><br></h3>
+<a href="yun39442@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logo=Naver&logoColor=black"></a>
+<a href></a>
+<a href></a>
+
 

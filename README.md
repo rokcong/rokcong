@@ -155,4 +155,6 @@ rockong is my nickname, not my real name 🤫<br>
 <a href="https://blog.naver.com/yun39442"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"></a>
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frokcong&count_bg=%2300F18D&title_bg=%23AE2424&icon=&icon_color=%237E1B1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 

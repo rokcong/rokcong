@@ -19,32 +19,27 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 14%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
       <td style="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
       <td style="width: 60%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
-      <td style="width: 11%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
     </tr>
     <!-- 교육 및 경력 항목을 표시합니다! -->
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2018.03 ~ 2023.02</td>
       <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과(3-year associate's degree)</td>
-      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
         <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2022.07 ~ 2023.01</td>
       <td style="width: 60%; height: 20px; text-align: center;">Ansible 자동화로 구현한 아마존 AWS 클라우드 환경 DevOps 과정(수료)</td>
-      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.03 ~ 2024.02</td>
       <td style="width: 60%; height: 20px; text-align: center;">정보통신공학과(bachelor degree)</td>
-      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Education</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2024.04</td>
       <td style="width: 60%; height: 20px; text-align: center;">Sesac AWS 부트 캠프</td>
-      <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
   </tbody>
 </table>

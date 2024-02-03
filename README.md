@@ -50,6 +50,7 @@ rockong is my nickname, not my real name 🤫<br>
 </table>
 </div>
 <br><br>
+
 <h3 align = "center">📖 My Certification<br><br></h3>
 <div align = "center">
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
@@ -83,10 +84,11 @@ rockong is my nickname, not my real name 🤫<br>
 </table>
 </div>
 <br><br>
-<h3 align = "center">📰 My Certification<br><br></h3>
+
+<h3 align = "center">📖 My Certification<br><br></h3>
 <div align = "center">
-  <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
-<!-- 미니 프로젝트 표시하는 테이블 -->
+<table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
+<!-- 자격증 표시하는 테이블 -->
   <tbody>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
@@ -137,10 +139,10 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Tilemap</td>
     </tr>
   </tbody>
+</table>
 </div>
 <br><br>
 
-    
 <!-- 기술 스택을 나타내는 섹션 -->
 <h3 align = "center">:wrench:Tech Stack:wrench:<br></h3>
 <!-- 프로그래밍 언어, 프레임워크, 데이터베이스, 배포 등의 기술 스택을 나타냅니다. -->

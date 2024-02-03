@@ -148,7 +148,7 @@ rockong is my nickname, not my real name 🤫<br>
 
 
 
-<!-- 콘텐츠 링크>
+<!-- 콘텐츠 링크 --> 
 <h3 align="center"> 🔗 Content 🔗 <br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
 <a></a>

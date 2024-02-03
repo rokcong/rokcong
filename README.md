@@ -46,6 +46,21 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 60%; height: 20px; text-align: center;">Sesac AWS 부트 캠프</td>
       <td style="width: 11%; height: 20px; text-align: center;">&nbsp;</td>
     </tr>
+  </tbody>
+</table>
+</div>
+<br><br>
+
+<div align = "center">
+<table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
+<!-- 자격증 표시하는 테이블 -->
+  <tbody>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
+      <td style="width: 15%; height: 20px; text-align: center;font-weight: 800;"><b>Date</b></td>
+      <td style="width: 60%; height: 20px; text-align: center;font-weight: 800;"><b>Contents</b></td>
+      <td style="width: 11%; height: 20px; text-align: center;font-weight: 800;"><b>Stack</b></td>
+    </tr>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
       <td style="width: 15%; height: 20px; text-align: center;">2021</td>
@@ -64,57 +79,7 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 60%; height: 20px; text-align: center;">Mos Office Excel 2016 Expert</td>
       <td style="width: 11%; height: 20px; text-align: center;">📇</td>
     </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.08 ~ 2023.08</td>
-      <td style="width: 60%; height: 20px; text-align: center;">팡야 게임: 떨어지는 공을 플레이어가 공을 맞추는 게임</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">금 캐기 게임: 땅에 있는 금을 광부가 곡갱이로 그랩해오는 게임</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.9 ~ 2023.9</td>
-      <td style="width: 60%; height: 20px; text-align: center;">침팬치 기억 저장 게임</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.8 ~ 2023.8</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 jpg 파일 합성 프로그램</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Window 3Dpainte</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.10 ~ 2023.10</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 웹 Selenium</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python</td>
-    </tr>
-    <tr style="height: 20px;">
-      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
-      <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2023.12</td>
-      <td style="width: 60%; height: 20px; text-align: center;">파이썬을 이용한 Zeld(2d) with soullike</td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, python, Tilemap</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+
 <!-- 기술 스택을 나타내는 섹션 -->
 <h3 align = "center">:wrench:Tech Stack:wrench:<br></h3>
 <!-- 프로그래밍 언어, 프레임워크, 데이터베이스, 배포 등의 기술 스택을 나타냅니다. -->

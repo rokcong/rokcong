@@ -151,7 +151,7 @@ rockong is my nickname, not my real name 🤫<br>
 <!-- 콘텐츠 링크 --> 
 <h3 align="center"> 🔗 Content 🔗 <br><br></h3>
 <div style = "display: flex; align-item : center; justify-item: center" align = "center">
-<a href="malito:yun39442@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=White"></a>
+<a href="yun39442@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=White"></a>
 <a href="https://blog.naver.com/yun39442"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"></a>
 <a href></a>
 </div>

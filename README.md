@@ -130,6 +130,10 @@ rockong is my nickname, not my real name 🤫<br>
   
 </div>
 <div>
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Tools : </span> 
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</div>
+<div>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Deploy : </span>
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=orange"/>
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>

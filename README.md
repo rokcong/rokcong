@@ -131,7 +131,8 @@ rockong is my nickname, not my real name 🤫<br>
 </div>
 <div>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Tools : </span> 
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=VScode&logoColor=white">
+  <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white">
 </div>
 <div>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Deploy : </span>

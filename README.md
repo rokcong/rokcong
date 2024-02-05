@@ -78,7 +78,7 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2024.02 ~ 2024.02</td>
-      <td style="width: 60%; height: 20px; text-align: center;"><a href="https://blog.naver.com/yun39442/223344638983">WebVM와 DBVM을 이용한 Docker 서비스 프로젝트</a></td>
+      <td style="width: 60%; height: 20px; text-align: center;"><a href="https://blog.naver.com/yun39442/223344638983">Docker를 이용한 WebVM와 DBVM을 이용한 웹 서비스</a></td>
       <td style="width: 11%; height: 20px; text-align: center;">Ubuntu, Python, Docker, Mysql, Vmware, Vmhost</td>
     </tr>
   </tbody>

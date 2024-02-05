@@ -135,9 +135,16 @@ rockong is my nickname, not my real name 🤫<br>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Framework : </span> 
   
 </div>
+<div style = "display: flex;">
+  <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Server : </span> 
+    <img src="https://img.shields.io/badge/rockylinux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kalilinux-557C94?style=flat-square&logo=kalilinux&logoColor=black"/>
+</div>
 <div>
   <span align="center" style = "margin-left: 90px; font-weight: 800;">:pushpin: Tools : </span> 
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white">
 </div>
 <div>

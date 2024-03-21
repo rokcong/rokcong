@@ -118,7 +118,7 @@ rockong is my nickname, not my real name 🤫<br>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
       <td style="width: 15%; height: 20px; text-align: center;">2024</td>
-      <td style="width: 60%; height: 20px; text-align: center;">AWS Certified Solutions Architect - Associate</td>
+      <td style="width: 60%; height: 20px; text-align: center;"><a href="https://www.credly.com/badges/31e9c1f9-9bde-4ab8-8209-4e302559b0c9/public_url">AWS Certified Solutions Architect - Associate</a></td>
       <td style="width: 11%; height: 20px; text-align: center;">📇</td>
     </tr>
   </tbody>

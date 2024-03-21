@@ -115,6 +115,12 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 60%; height: 20px; text-align: center;">Mos Office Excel 2016 Expert</td>
       <td style="width: 11%; height: 20px; text-align: center;">📇</td>
     </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Certification</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2024</td>
+      <td style="width: 60%; height: 20px; text-align: center;">AWS Certified Solutions Architect - Associate</td>
+      <td style="width: 11%; height: 20px; text-align: center;">📇</td>
+    </tr>
   </tbody>
 </table>
 </div>

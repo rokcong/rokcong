@@ -49,7 +49,7 @@ rockong is my nickname, not my real name 🤫<br>
 <h3 align = "center">📰 My Project<br><br></h3>
 <div align = "center">
 <table style="border-collapse: collapse; width: 100%; height: 200px;"border="1" data-ke-align="center" align = "center">
-<!-- 자격증 표시하는 테이블 -->
+<!-- 프로젝트 표시하는 테이블 -->
   <tbody>
     <tr style="height: 20px;">
       <td style="width: 14%; height: 20px; text-align: center;font-weight: 800;"><b>Type</b> </td>
@@ -80,6 +80,12 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 15%; height: 20px; text-align: center;">2024.02 ~ 2024.02</td>
       <td style="width: 60%; height: 20px; text-align: center;"><a href="https://blog.naver.com/yun39442/223344638983">Docker를 이용한 WebVM와 DBVM을 이용한 웹 서비스</a></td>
       <td style="width: 11%; height: 20px; text-align: center;">Ubuntu, Python, Docker, Mysql, Vmware, Vmhost</td>
+    </tr>
+    <tr style="height: 20px;">
+      <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
+      <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2023.12</td>
+      <td style="width: 60%; height: 20px; text-align: center;"><a href="https://github.com/rokcong/taro_arcana">LLM을 이용한 타로 웹 사이트</a></td>
+      <td style="width: 11%; height: 20px; text-align: center;">VScode, Python, Tilemap</td>
     </tr>
   </tbody>
 </table>

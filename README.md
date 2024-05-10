@@ -85,7 +85,7 @@ rockong is my nickname, not my real name 🤫<br>
       <td style="width: 14%; height: 20px; text-align: center;">Mini Protject</td>
       <td style="width: 15%; height: 20px; text-align: center;">2023.12 ~ 2023.12</td>
       <td style="width: 60%; height: 20px; text-align: center;"><a href="https://github.com/rokcong/taro_arcana">LLM을 이용한 타로 웹 사이트</a></td>
-      <td style="width: 11%; height: 20px; text-align: center;">VScode, Python, Tilemap</td>
+      <td style="width: 11%; height: 20px; text-align: center;">AWS, Python, Ubuntu, MySQL, MySQL Workbench, Langchain, JS</td>
     </tr>
   </tbody>
 </table>
